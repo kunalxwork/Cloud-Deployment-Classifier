@@ -13,8 +13,8 @@ This Streamlit application uses a Random Forest model to recommend whether a giv
 
 1.  **Clone the repository:**
     ```bash
-    git 
-    cd your-repo-name
+    git https://github.com/kunalxwork/Cloud-Deployment-Classifier
+    cd Cloud-Deployment-Classifier
     ```
 
 2.  **Install the required libraries:**
